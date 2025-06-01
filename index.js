@@ -46,4 +46,4 @@ async function makeCommits(total) {
   await git.push();
 }
 
-makeCommits(100).catch(console.error);
+makeCommits(90).catch(console.error);
