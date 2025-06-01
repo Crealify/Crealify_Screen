@@ -47,3 +47,7 @@ So, you've got the basics down. What's next?
 ## Credits
 
 Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
+
+
+# Run 50 commits every 6 hours
+for i in {1..4}; do node index.js 50; sleep 6h; done
